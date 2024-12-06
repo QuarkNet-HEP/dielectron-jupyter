@@ -1,5 +1,7 @@
 uproot
 awkward
+awkward_pandas
+pandas
 vector
 numpy
 matplotlib
